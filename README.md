@@ -2,6 +2,12 @@
 Interative Power BI dashboard for analysing Fitbit user wellness data using python(pandas),Excel and Power BI with feature enginnering and busines inights
 
 
+## Dashboard Preview
+
+![User Wellness Analytics Dashboard]
+(dashboard.png)
+
+
 ## Project Overview
 This project is an interactive Power BI dashboard developed to analyse Fitbit user wellness and activity data. The dashboard transforms raw fitness data into meaningful business insights through data cleaning, feature engineering, and interactive visualisations.
 
