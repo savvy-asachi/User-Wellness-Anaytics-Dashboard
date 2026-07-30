@@ -4,8 +4,7 @@ Interative Power BI dashboard for analysing Fitbit user wellness data using pyth
 
 ## Dashboard Preview
 
-![User Wellness Analytics Dashboard]
-(dashboard.png)
+![User Wellness Analytics Dashboard](dashboard.png)
 
 
 ## Project Overview
